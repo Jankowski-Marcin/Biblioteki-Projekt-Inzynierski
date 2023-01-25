@@ -16,3 +16,5 @@ Bibliotek Interrupt_pin - biblioteka implementująca przerwania zewnętrzne na p
 pozwala na przypisanie funkcji obsługujących do każdego z sześciu przerwań zewnętrznych, wybór zdarzenia generującego przerwanie. 
 oraz uruchomienie trybu jednokrotnego przerwania. 
 
+Timer - biblioteka implementująca timery odliczające czas co 0.1s 
+
