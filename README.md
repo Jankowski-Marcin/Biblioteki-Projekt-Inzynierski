@@ -1,5 +1,5 @@
 # Biblioteki-Projekt-Inzynierski
-Biblioteki utworzone w ramach projektu inżynierskiego
+Biblioteki utworzone w ramach projektu inżynierskiego.
 Biblioteki słóżą do sterowania podstawowymi elementami projektów tworzoych na bazie płytek Arduino
 
 Biblioteka Arduino_pin - sterowanie stanami wyjść i odczytem wejść cyfrowych pinów GPIO
