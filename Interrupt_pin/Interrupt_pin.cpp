@@ -13,8 +13,8 @@ void do_nothing(void){
 
 int8_t Interrupt_pin::pin2interrupt(uint8_t pin_number){
   switch(pin_number){
-    case 2: return 5;
-    case 3: return 4;
+    case 2: return 4;
+    case 3: return 5;
     case 18: return 3;
     case 19: return 2;
     case 20: return 1;
