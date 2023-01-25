@@ -4,7 +4,7 @@ Biblioteki słóżą do sterowania podstawowymi elementami projektów tworzoych 
 
 Biblioteka Arduino_pin - sterowanie stanami wyjść i odczytem wejść cyfrowych pinów GPIO
 
-Biblioteka Servo_motor_mega/uno -setrowanie silnikami servo (maksymalnie 7) napisane dla płytek mega i uno, 
+Biblioteka Servo_motor_mega/uno -sterowanie modelarskimi silnikami servo (maksymalnie 7) napisane dla płytek mega i uno, 
 jedyna różnica pomiędzy bibliotekami to zmiana timera wykorzystywanego do generowania przerwań. 
 Do ich poprawnego działania wymagane jest wcześniejsze zainstalowanie biblioteki Arduino_pin
 
